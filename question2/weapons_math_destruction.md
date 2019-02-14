@@ -21,6 +21,7 @@
 ----
 
 ***What is the main argument of the text?***
+
 O'Neil aruges that certain "Weapons of Math Destruction" (WMDs) pose a danger to democracy and society, mainly through their tendency to punish the poor (and everyone who isn't wealthy, really). They create negative feedback loops that reinforce inequality and social injustice, especially thsoe based around race, gneder, class, and geography. These models that constitute WMDs are unregulated and uncontestable. Moreover, they are invisible to those who are more wealthy and powerful–they can be safely ignored or money can be spent to avoid them (though, middle class individuals also must deal with these issues, though in different ways, see the chapter on college admissions). O'Neil argues that data scientists and mathameticians should be aware of WMDs, and have an ethical responsibility to avoid them. A "hippocratic oath" for data scientists is proposed (originally proposed by two financial engineerings in 2008), which summarizes the ethical view of this text:
 
 - I will remember that I didn't make the world, and it doesn't satisfy my equations
@@ -62,8 +63,7 @@ This book draws on a mix of the author's personal experience, and examples (whic
 
 2. "But human decision making, while often flawed, has one cheif virtue. It can evolve. As human beings learn and adapt, we change, and so do our proesses. Automated systems, by contrast, stay stuck in time until engineers dive in to change them. If a Big Data college application model had established itself in the erly 1960s, we wouldn't have many women going to college, because it would have been trained largely on successful men...***Big Data processes codify the past***. they do not invent the future. Doing that requires moral imagination, and that's something only humans can provide. We have to epxlicitely embed better values into our algorithms, creating Big Data models that follow out ethical lead. Sometimes that will mean putting fairness ahead of profit." (pg 203)
 
-3. "A person who scores as ‘high risk’ is likely to be unemployed and to come from a neighborhood where many of his friends and family have had run-ins with the law. Thanks in part to the resulting high score on the evaluation, he gets a longer sentence, locking him away for more years in a prison where he’s surrounded by fellow criminals—which raises the likelihood that he’ll return to prison. He is finally released into the same poor neighborhood, this time with a criminal record, which makes it that much harder to find a job. If he commits another crime, the recidivism model can claim another success. ***But in fact the model itself contributes to a toxic cycle and helps to sustain it.***"
-
+3. "A person who scores as ‘high risk’ is likely to be unemployed and to come from a neighborhood where many of his friends and family have had run-ins with the law. Thanks in part to the resulting high score on the evaluation, he gets a longer sentence, locking him away for more years in a prison where he’s surrounded by fellow criminals—which raises the likelihood that he’ll return to prison. He is finally released into the same poor neighborhood, this time with a criminal record, which makes it that much harder to find a job. If he commits another crime, the recidivism model can claim another success. ***But in fact the model itself contributes to a toxic cycle and helps to sustain it.*** "
 
 #### Other Notes
 ----

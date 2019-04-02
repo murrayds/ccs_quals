@@ -86,5 +86,5 @@ I am perosnally somewhat (though not entirely) fond of some of Toyama's ideas in
 
 #### Other Notes
 ----
-None
+One particualr idea of Toyama's that I liked was that we can't get rid of poverty by changing the things that people consume. Companies hoping to "fight" poverty are always seeking to sell something, as if poverty were a matter of what people consumed. Instead, we should consdier turning people into net-producers, rather than consumers. 
 

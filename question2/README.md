@@ -1,1 +1,10 @@
 This folder will contain resources and materials for the second question of the 2019 CCS qualifying exam for Dakota Murray at Indiana Univeristy Bloomington
+
+## Question
+> The recent explosion of Data Science and Big Data, and their growing importance in science, has lead to an increasing number of discussions on the limitations and implications of these methods. In technical spheres, these discussions tend to focus on epistemic issues, namely, what are the limits on what these tools allow us to know, and how valid is the knowledge they produce? However, in more social and humanistic fields, the discussion has instead centered on the ethical implications of applying these methods to real-world situations, with little discussion on their validity. There is little cross-talk between technical and socially-oriented scholars. However, in a world where scientific knowledge (and knowledge more generally) is used in ways that impact day-to-day life, validity can have direct ethical implications—knowledge built on an inproper premise can lead to failed technologies, misinformed governance, and bad decision-making. Data epistemology and ethics would benefit from a synthesis between these two areas of study. 
+    
+> While there is no standardized procedure for data science, the general data analysis process can be divided into a series of stages, including question or problem formulation, data collection, pre-processing, inference, and “application”—the last being up to you to define. For each of these stages, 
+Briefly summarize some of the tools, techniques, and procedures that constitute this stage 
+Summarize some of the important discussions relevant to this stage from both the technical and STS literature, with a particular focus on epistemic issues. 
+Summarize a case study in order to examine an epistemic issue in the production of scientific knowledge using data-intensive methods, 
+Your answer should include a short essay summarizing how technical, epistemic, and ethical issues interact broadly across data science as it relates to scientific knowledge. 

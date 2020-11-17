@@ -28,7 +28,7 @@ Turner’s book describes the cultural history of the counterculture movement, t
 Describe at least three ways that the main argument is supported./ 5. Describe the methodology (or methodologies) used in the text, and how it enables the author(s) to support the text’s main argument
 
 
- This is a historical text which uncovers and details the various linkages between cybernetic scientists and the counter-cultural movements. Because this is a history of a particular mode of thinking, there are multiple great readings of the ideas in cybernetics (which Norber Weiner was kind enough to write a book about) and of cultural artifacts and practices of the counterculture movement of new communalism, such as the Whole Earth catalogue, and the geodesic dome (that one was particularly fun.
+ This is a historical text which uncovers and details the various linkages between cybernetic scientists and the counter-cultural movements. Because this is a history of a particular mode of thinking, there are multiple great readings of the ideas in cybernetics (which Norber Weiner was kind enough to write a book about) and of cultural artifacts and practices of the counterculture movement of new communalism, such as the Whole Earth catalogue, and the geodesic dome (that one was particularly fun).
 	1. 
 Describe the main literatures that the text draws on and contributes to, and the particular contribution made by the text. / 6. Describe at least three of the text’s themes or topics that are of general interest in STS.
 

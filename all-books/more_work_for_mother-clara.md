@@ -20,6 +20,7 @@ What is the main argument of the text?
 
 
 In this annotation, I’m choosing to focus on Chapter 3, the 19th century chapter, which covers housework during the early industrial period. Over the course of the chapter, as Cowen describes the types of changes and new tools that arrived, she shows repeatedly that while many of the new technologies have the effect of either easing or doing away entirely with the forms of household labor typically practiced by children and men (the chopping wood or hauling water), the technologies that touched the work performed by women did not actually remove work, but transformed it to something else or created a different set of obligations. In this way, Cowen demonstrates that the development of the separate spheres doctrine, while partly ideological, was also facilitated by a transformation in labor technologies and practices that removed most housework obligations from men and assigned them squarely onto women.
+
 	1. 
 Describe at least three ways that the main argument is supported.
 
